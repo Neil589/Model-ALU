@@ -7,7 +7,6 @@
 #include <string.h>
 
 #include "alu.h"
-
 // ----------------------------------------
 // Simulate add and subtract arithmetic digital logic circuit
 // 
